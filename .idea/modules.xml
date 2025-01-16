@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Problem1/Problem1.iml" filepath="$PROJECT_DIR$/Problem1/Problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem2/Problem2.iml" filepath="$PROJECT_DIR$/Problem2/Problem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-multithreading.iml" filepath="$PROJECT_DIR$/.idea/java-multithreading.iml" />
     </modules>
   </component>
